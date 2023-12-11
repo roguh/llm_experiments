@@ -1,0 +1,20 @@
+Problem: If a 5GB of media files shipped on 3.5" floppy disks, how many floppy disks would it take?
+
+Answer: A 3.5" floppy disk can store about 1.44MB. The 5GB of media files is << 5 * 1,000,000,000 bytes = 5,000,000,000 bytes >> and a single floppy disk can store << 1.44 * 1,000,000 bytes = 1,440,000 bytes >>, so we can find the answer by dividing these two quantities of bytes << 5,000,000,000 / 1,440,000 bytes = 3,472.22222 >>. We cannot have a fractional floppy disk, so we can round this number up to 3,473. Therefore, the 5GB of medial files could fit in 3,473 1.44MB 3.5" floppy disks.
+
+Problem: If Microsoft Windows 11 shipped on 3.5" floppy disks, how many floppy disks would it take?
+
+The answer to this problem is not straightforward, as Microsoft Windows 11 is a large operating system and its size varies depending on the specific version and language. However, we can use some estimates to find out how many floppy disks it would take to ship the operating system.
+
+On average, a 3.5" floppy disk can store about 1.44 MB of data. Microsoft Windows 11 has been estimated to be around 20-30 GB in size. So, we can use this information to find out how many disks would be needed to ship the operating system.
+
+To do this, we need to divide the size of the operating system (in bytes) by the size of a single floppy disk (in bytes). This will give us the number of floppy disks required to ship the operating system.
+
+Let's assume that Windows 11 has a size of 25 GB (which is within the range given in the previous problem), and we will use 3.5" floppy disks with a capacity of 1.44 MB each. We can then calculate the number of disks required as follows:
+
+Number of disks = Total size of Windows 11 (in bytes) / Size of a single floppy disk (in bytes)
+= 25,000,000,000 bytes / 1,440,000 bytes
+= approximately 16,333 disks
+
+Therefore, Microsoft Windows 11 would require approximately 16,333 floppy disks to be shipped on them. However, it's worth noting that this is just an estimate and the actual number of disks required may vary depending on the specific version and language of the operating system being used.
+

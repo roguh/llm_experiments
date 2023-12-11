@@ -1,0 +1,18 @@
+Problem: If a 5GB of media files shipped on 3.5" floppy disks, how many floppy disks would it take?
+
+Answer: A 3.5" floppy disk can store about 1.44MB. The 5GB of media files is << 5 * 1,000,000,000 bytes = 5,000,000,000 bytes >> and a single floppy disk can store << 1.44 * 1,000,000 bytes = 1,440,000 bytes >>, so we can find the answer by dividing these two quantities of bytes << 5,000,000,000 / 1,440,000 bytes = 3,472.22222 >>. We cannot have a fractional floppy disk, so we can round this number up to 3,473. Therefore, the 5GB of medial files could fit in 3,473 1.44MB 3.5" floppy disks.
+
+Problem: If Microsoft Windows 11 shipped on 3.5" floppy disks, how many floppy disks would it take?
+
+Answer: Microsoft Windows 11 is a software program, and its size varies depending on the version and edition. However, to estimate the number of floppy disks required to store Microsoft Windows 11, we can use the following calculation:
+
+Assuming the size of Microsoft Windows 11 is approximately 20 GB (which is a reasonable estimate), we need to divide it by the capacity of a single 3.5" floppy disk, which is 1.44 MB.
+
+Therefore, we can calculate the number of floppy disks required as follows:
+
+20,000,000,000 bytes (size of Microsoft Windows 11) / 1,440,000 bytes (capacity of a single 3.5" floppy disk) = 13,956.521739 floppy disks
+
+Since we cannot have a fractional number of floppy disks, we round up to the nearest whole number, which is 14,000 floppy disks. Therefore, it would take approximately 14,000 3.5" floppy disks to store Microsoft Windows 11.
+
+It's important to note that this calculation is purely hypothetical, as Microsoft Windows 11 does not actually ship on 3.5" floppy disks. However, it provides an illustration of how we can estimate the number of floppy disks required to store a given amount of data.
+
