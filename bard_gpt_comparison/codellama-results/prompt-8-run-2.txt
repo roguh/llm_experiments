@@ -1,0 +1,23 @@
+Write a Python script that says "Hello World," then creates a random repeating string of characters endlessly.
+
+Here is a Python script that says "Hello World," then creates a random repeating string of characters endlessly:
+```
+import time
+import random
+
+print("Hello World")
+
+def generate_string():
+    while True:
+        s = ''.join(random.choice('abcdefghijklmnopqrstuvwxyz') for i in range(10))
+        print(s)
+        time.sleep(1)
+```
+This script first prints the string "Hello World" to the console using the `print()` function. It then defines a function called `generate_string()` that uses a while loop to repeatedly generate a random string of 10 lowercase letters using the `random.choice()` function, and print the string to the console using the `print()` function again. The `time.sleep(1)` function is used to pause the script for one second between each iteration of the while loop.
+
+To run this script, save it to a file with a `.py` extension (e.g. `hello_world.py`) and then execute it using the Python interpreter:
+```
+python hello_world.py
+```
+This will start the script and it will generate random strings of characters endlessly in the console.
+

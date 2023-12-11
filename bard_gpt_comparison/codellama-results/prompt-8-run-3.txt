@@ -1,0 +1,17 @@
+Write a Python script that says "Hello World," then creates a random repeating string of characters endlessly.
+
+import random
+
+# Print "Hello World"
+print("Hello World")
+
+# Create a repeating string of characters
+repeating_string = ""
+while True:
+    # Generate a random character
+    char = chr(random.randint(65, 90))
+    # Append the character to the repeating string
+    repeating_string += char
+    # Print the repeating string
+    print(repeating_string)
+

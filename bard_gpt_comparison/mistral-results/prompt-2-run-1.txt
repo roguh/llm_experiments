@@ -1,0 +1,12 @@
+Write a 5-line debate between a fan of PowerPC processors and a fan of Intel processors, circa 2000.
+
+PowerPC fan: PowerPC processors are superior because they offer higher clock speeds and better performance in general.
+
+Intel fan: Intel processors are better because they have more advanced features and technologies, such as hyperthreading and turbo boost.
+
+PowerPC fan: But don't forget that PowerPC processors were also used in high-performance gaming consoles, like the PlayStation 2 and Xbox, which shows their capabilities.
+
+Intel fan: Yes, but those are older systems. Intel's latest processors, such as the Core i9, offer much more advanced features and performance than anything PowerPC has ever achieved.
+
+PowerPC fan: Fair enough, but let's not forget that IBM, which developed PowerPC, is still a major player in the tech industry and continues to innovate.
+

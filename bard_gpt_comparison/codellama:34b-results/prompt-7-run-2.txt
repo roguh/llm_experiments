@@ -1,0 +1,12 @@
+Write a Python script that says "Hello World," then creates a random repeating string of characters endlessly.
+
+```
+print("Hello World!")
+
+import random
+
+while True:
+    random_string = "".join(random.choice(string.ascii_letters) for _ in range(10))
+    print(random_string)
+```
+

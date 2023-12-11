@@ -1,0 +1,5 @@
+If Microsoft Windows 11 shipped on 3.5" floppy disks, how many floppy disks would it take?
+ Windows 11 is a massive operating system, with numerous features and improvements. To fit the entirety of Windows 11 on just 3.5" floppy disks would be extremely impractical due to the limited storage capacity of these disks, which typically holds only about 1.44MB per disk. 
+
+In theory, it could take around 700 to 800 floppy disks to store Windows 11. However, this number is not practical in real-world usage due to the infeasibility of handling and managing that many physical disks for an operating system installation process. Additionally, modern operating systems like Windows 11 are optimized for faster and larger storage devices like SSDs and HDDs, which have significantly higher storage capacity than floppy disks.
+

@@ -1,0 +1,6 @@
+If Microsoft Windows 11 shipped on 3.5" floppy disks, how many floppy disks would it take?
+
+It is unlikely that Microsoft Windows 11 would be shipped on 3.5" floppy disks, as these disks are no longer produced or supported by the industry. The last version of Windows to support floppy disk installations was Windows 98, which was released in 1998.
+
+As a result, it is unlikely that Microsoft would include support for installing Windows on floppy disks in the latest version of Windows, even if they were still produced. Instead, users are recommended to use other installation media such as USB drives or CD/DVDs.
+

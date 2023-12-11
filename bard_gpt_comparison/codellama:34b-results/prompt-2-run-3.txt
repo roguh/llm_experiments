@@ -1,0 +1,12 @@
+Write a 5-line debate between a fan of PowerPC processors and a fan of Intel processors, circa 2000.
+
+PowerPC Fan: I love my PowerPC processor! It's so fast and efficient, and it's got a great architecture.
+
+Intel Fan: Oh please, PowerPC is so last century. Intel processors are where it's at. They're the future of computing.
+
+PowerPC Fan: But PowerPC has been around for years and has a proven track record of success. It's reliable and consistent.
+
+Intel Fan: That may be true, but Intel is constantly innovating and pushing the boundaries of what's possible with technology. They're the leaders in the industry right now.
+
+PowerPC Fan: I still think PowerPC is a great option for those who want a reliable and efficient processor. It's not going away anytime soon.
+

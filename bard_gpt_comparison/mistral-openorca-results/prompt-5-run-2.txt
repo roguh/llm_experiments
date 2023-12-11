@@ -1,0 +1,11 @@
+Who invented video games?
+ The invention of video games is a result of the collaborative work and contributions of several individuals and companies throughout history. However, some key figures include:
+
+1. Thomas T. Goldsmith Jr. and Bert Stern (circa 1958) - They created "Tennis for Two," an early electronic interactive digital game that was played on an analog computer at the Brookhaven National Laboratory in the United States.
+2. William Higinbotham (1967) - He invented "Tic-tac-toe" (or "Noughts and Crosses") as a demonstration at the New York World's Fair. This game was played on an oscilloscope, an early type of cathode ray tube display device.
+3. Ralph H. Baer (circa 1967) - He developed the first home video game consoles, "Brown Box" and later "Odyssey," at Sanders Associates (now known as BAE Systems). His creation led to the founding of Magnavox, which released the Odyssey in 1972.
+4. Nolan Bushnell and Ted Dabney (circa 1967-1970) - They created the first coin-operated video game, "Computer Space," and later founded Atari, Inc., releasing "Pong" in 1972. This arcade game became one of the most popular early video games.
+5. Ken Thompson (circa 1971) - He created "PONG-style" video games for a DEC PDP-10 computer at MIT by writing code in the LISP language.
+
+These pioneers laid the foundation for future advancements and innovations in video game technology, leading to the diverse and expansive industry that exists today.
+

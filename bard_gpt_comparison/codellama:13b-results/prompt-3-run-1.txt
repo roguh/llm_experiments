@@ -1,0 +1,12 @@
+Write a 5-line debate between a fan of PowerPC processors and a fan of Intel processors, circa 2000.
+
+Fan of PowerPC: "PowerPC processors are the best choice for any serious work. They offer a wide range of features, including high clock speeds and low power consumption."
+
+Fan of Intel: "Intel processors have been around for longer and have more widespread support. They also offer better compatibility with other hardware and software."
+
+Fan of PowerPC: "That may be true, but PowerPC processors are faster and more efficient than Intel processors. They can handle even the most demanding tasks without breaking a sweat."
+
+Fan of Intel: "I disagree. Intel processors have been around for longer and have had more time to develop and refine their technology. They offer better performance and efficiency over time."
+
+Fan of PowerPC: "But at what cost? PowerPC processors are more expensive than Intel processors, and they don't have the same level of compatibility with other hardware and software."
+

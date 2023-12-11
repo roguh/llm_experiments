@@ -1,0 +1,18 @@
+Write a Python script that says "Hello World," then creates a random repeating string of characters endlessly.
+import random
+
+# Print "Hello World"
+print("Hello World")
+
+# Create a function to generate a random repeating string of characters
+def generate_random_string():
+    # Generate a random string of characters
+    my_string = ''.join(random.choices('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789', k=10))
+    
+    # Repeat the string indefinitely
+    while True:
+        yield my_string
+
+# Use a generator expression to create an infinite loop that prints the random repeating string
+print(*generate_random_string())
+

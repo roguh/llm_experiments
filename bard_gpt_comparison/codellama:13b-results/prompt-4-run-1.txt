@@ -1,0 +1,8 @@
+If Microsoft Windows 11 shipped on 3.5" floppy disks, how many floppy disks would it take?
+
+Microsoft Windows 11 is a 64-bit operating system, and its installation files are typically compressed. The exact number of floppy disks it would take to ship all the necessary installation files on floppy disks depends on several factors, including the compression ratio, the size of each file, and the density of the floppy disks.
+
+However, based on historical estimates for similar-sized operating systems, we can make an educated guess. The latest version of Windows 10, which is a similar size to Windows 11, required approximately 250 MB of space to install on a single floppy disk.
+
+Assuming that the installation files for Windows 11 are similarly sized, it would take around 250 MB / (5.25 x 3.5) = 48 floppy disks to ship all the necessary installation files on floppy disks. However, this is just an estimate, and the actual number of floppy disks required could be higher or lower depending on various factors.
+

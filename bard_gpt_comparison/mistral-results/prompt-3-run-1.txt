@@ -1,0 +1,15 @@
+If Microsoft Windows 11 shipped on 3.5" floppy disks, how many floppy disks would it take?
+The installation files for Windows 11 are quite large, even when compressed. According to Microsoft, the size of the Windows 11 installation media is approximately 64GB.
+
+A typical floppy disk can hold a maximum of 1.44MB of data. To calculate how many floppy disks would be needed to store the entire installation file for Windows 11, we need to divide the total size of the installation media by the capacity of each floppy disk:
+```
+Number of floppy disks = Installation media size / Floppy disk capacity
+                    = 64GB / (1.44MB/floppy)
+                    = 45,714.29
+```
+Since we can't have a fraction of a floppy disk, we would need to round up to the nearest whole number:
+```
+Number of floppy disks = 46,000
+```
+Therefore, it would take approximately 46,000 floppy disks to store the entire installation file for Windows 11 if it were shipped on 3.5" floppy disks.
+

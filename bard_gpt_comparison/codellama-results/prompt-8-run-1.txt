@@ -1,0 +1,16 @@
+Write a Python script that says "Hello World," then creates a random repeating string of characters endlessly.
+
+Here's a Python script that does what you asked for:
+```
+# Print "Hello World"
+print("Hello World")
+
+# Create a random repeating string of characters endlessly
+while True:
+    str = ''.join(random.choice(string.ascii_letters) for i in range(10))
+    print(str)
+```
+This script first prints the message "Hello World" to the console using the `print()` function. Then, it enters an infinite loop that generates a random string of 10 characters using the `random.choice()` and `string.ascii_letters` functions. The `random.choice()` function chooses a random character from the `string.ascii_letters` string, which contains all the letters of the English alphabet. The `string.ascii_letters` string is used to generate the random characters in the string.
+
+The loop then prints the generated string using the `print()` function again. Since the loop never ends, the script will run endlessly and print the same repeating string over and over again.
+

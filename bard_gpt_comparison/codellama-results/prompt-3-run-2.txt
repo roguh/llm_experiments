@@ -1,0 +1,12 @@
+Write a 5-line debate between a fan of PowerPC processors and a fan of Intel processors, circa 2000.
+
+Fan of PowerPC Processors: "PowerPC processors are superior to Intel processors. They offer better performance and more efficient energy usage. Their architecture is specifically designed for the Macintosh platform, and their instruction sets allow for faster execution of Apple's specific software."
+
+Fan of Intel Processors: "Intel processors are superior to PowerPC processors. They are widely used and well-supported by the computing industry. They offer better performance in a wider range of applications, including gaming, video editing, and scientific simulations. Their architecture is more open and flexible, allowing for greater customization and optimization."
+
+Fan of PowerPC Processors: "But that's not true! PowerPC processors are specifically designed for the Macintosh platform and offer unique performance benefits. Apple's software is optimized for PowerPC, so they work best on a Mac."
+
+Fan of Intel Processors: "That may be true, but Intel processors are still widely used and supported. They are compatible with a wider range of operating systems and software, making them easier to use in the long run. Plus, their architecture is more open and flexible, allowing for greater customization and optimization."
+
+Fan of PowerPC Processors: "But that's not important! The key issue here is performance, and PowerPC processors offer better performance than Intel processors in many cases."
+

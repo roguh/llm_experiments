@@ -1,0 +1,11 @@
+Write a 5-line debate between a fan of PowerPC processors and a fan of Intel processors, circa 2000.
+ Fan of PowerPC processors: "Hey, I just got my new Power Mac G4! It's so fast and powerful, just what a creative person like me needs."
+
+Fan of Intel processors: "Hold on, isn't PowerPC slow and outdated? I prefer the efficiency and speed of Intel processors. My PC runs super smooth and it saves me money too!"
+
+Fan of PowerPC processors: "But you can't compare an Intel-based PC with a Mac! The G4 has that cool FPU and AltiVec, which makes it perfect for advanced tasks like video editing or 3D rendering."
+
+Fan of Intel processors: "Yeah, but I can do all those things on my Windows machine, and there are so many more software options available. Plus, you know, Microsoft Office works great on Intel systems."
+
+Fan of PowerPC processors: "That's true, but Apple makes the best hardware and software combination, in my opinion. The seamless integration between Mac OS and the G4 is unbeatable!"
+

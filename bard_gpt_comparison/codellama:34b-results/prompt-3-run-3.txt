@@ -1,0 +1,8 @@
+If Microsoft Windows 11 shipped on 3.5" floppy disks, how many floppy disks would it take?
+
+If Microsoft Windows 11 shipped on 3.5" floppy disks, it would take approximately 680 floppy disks to hold the entire operating system. This is because a standard 3.5" floppy disk has a capacity of 1.44 MB, and the current version of Windows 11 is around 20 GB in size. To calculate the number of floppy disks needed, we can divide the size of the operating system by the capacity of a single floppy disk:
+
+20,593,766,400 bytes (Windows 11) / 1,440,000,000 bytes (1.44 MB per floppy disk) = 14,346.48 floppy disks
+
+Since you can't have a fraction of a floppy disk, we round up to the nearest whole number to get 14,347 floppy disks needed for Windows 11.
+

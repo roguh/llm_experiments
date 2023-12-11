@@ -1,0 +1,12 @@
+Write a 5-line debate between a fan of PowerPC processors and a fan of Intel processors, circa 2000.
+
+PowerPC fan: "PowerPC processors are the superior choice for Mac users. They offer better performance and energy efficiency."
+
+Intel fan: "That's just not true. Intel processors have been the industry standard for years and offer better compatibility with Windows and other software."
+
+PowerPC fan: "But PowerPC processors are designed specifically for Macs, which means they can take advantage of the OS's unique features and optimizations."
+
+Intel fan: "That may be true, but Intel processors have a much larger selection of available software and hardware, which makes them a better choice for users who want more options."
+
+PowerPC fan: "But at the end of the day, it all comes down to personal preference. If you like the idea of using a Mac with a PowerPC processor, then that's your decision to make."
+

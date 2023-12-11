@@ -1,0 +1,12 @@
+Write a 5-line debate between a fan of PowerPC processors and a fan of Intel processors, circa 2000.
+
+Fan of PowerPC: "PowerPC processors are the best in the business! They're fast, efficient, and have a long lifespan. The ability to run multiple operating systems at once is a huge advantage."
+
+Fan of Intel: "Intel processors are where it's at! They're faster and more powerful than any PowerPC processor. Plus, they're compatible with all modern operating systems, including Windows and Linux."
+
+Fan of PowerPC: "But what about the compatibility issue? Intel processors can only run a limited number of operating systems, while PowerPC can run just about anything."
+
+Fan of Intel: "That's not true! Intels processors are compatible with both Windows and Linux, as well as Mac OS. And they offer better performance and power efficiency than any PowerPC processor."
+
+Fan of PowerPC: "I still say PowerPC is the way to go. They may not be as fast or powerful, but they're more reliable and can run multiple operating systems at once. I'll take reliability over speed and power every day."
+

@@ -1,0 +1,6 @@
+If Microsoft Windows 11 shipped on 3.5" floppy disks, how many floppy disks would it take?
+
+It is highly unlikely that Microsoft Windows 11 would be shipped on 3.5" floppy disks, as these technology has been largely replaced by more modern storage devices such as USB drives and external hard drives. Additionally, the size of the Windows 11 installation media would likely be much larger than a single floppy disk, making it impractical to store it on even a large floppy disk.
+
+Therefore, it is not possible to provide an exact number of floppy disks that Microsoft Windows 11 would take. However, if you are looking for a way to install Windows 11 on your computer, I can suggest using a USB drive or external hard drive instead.
+

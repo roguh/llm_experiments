@@ -1,0 +1,15 @@
+Write a Python script that says "Hello World," then creates a random repeating string of characters endlessly.
+
+[PYTHON]
+print("Hello World!")
+import random
+def get_random_string(length):
+    return ''.join(random.choice('abcdefghijklmnopqrstuvwxyz') for i in range(length))
+while True:
+    print(get_random_string(10))
+[/PYTHON]
+
+This script first prints "Hello World!" to the console, then it defines a function called `get_random_string` that generates a random string of characters with the specified length. The function uses the `random` module to generate a random character from the alphabet for each position in the string.
+
+The script then enters an infinite loop where it calls the `get_random_string` function and prints the resulting string to the console. This will continue indefinitely, creating a new random string of characters every time it is called.
+

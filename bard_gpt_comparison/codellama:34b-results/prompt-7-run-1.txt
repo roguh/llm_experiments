@@ -1,0 +1,20 @@
+Write a Python script that says "Hello World," then creates a random repeating string of characters endlessly.
+
+Here is a possible solution:
+```
+print("Hello World!")
+while True:
+    print(chr(ord('A') + random.randint(0, 25)) * random.randint(1, 5))
+```
+Explanation:
+
+The first line prints "Hello World!" to the console.
+
+The second line starts a while loop that runs indefinitely (because of the `True` condition).
+
+The third line generates a random integer between 0 and 25 using the `random.randint()` function, and then uses the `chr()` function to convert it to an ASCII character. This character is then repeated a random number of times between 1 and 5 using the `*` operator.
+
+Finally, the fourth line prints this generated string to the console using the `print()` function.
+
+Note that because the loop runs indefinitely, this script will continue to generate and print random strings until it is stopped or interrupted.
+

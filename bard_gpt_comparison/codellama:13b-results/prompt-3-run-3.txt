@@ -1,0 +1,12 @@
+Write a 5-line debate between a fan of PowerPC processors and a fan of Intel processors, circa 2000.
+
+Fan of PowerPC processors: "I'll never understand why people keep using Intel chips. They're just so slow and inefficient compared to PowerPC."
+
+Fan of Intel processors: "That's because you're used to the outdated technology of PowerPC. Intel has been leading the way in processor technology for years, and their chips are lightning fast and efficient."
+
+Fan of PowerPC processors: "Speed isn't everything. PowerPC processors are more energy-efficient and can run cooler, which means they last longer and are better for the environment."
+
+Fan of Intel processors: "That may be true for low-end chips, but high-performance Intel chips are designed to be fast and efficient. They also have a wide range of features that make them more versatile than PowerPC chips."
+
+Fan of PowerPC processors: "I think it's time for you to catch up with the times and try out some PowerPC chips. You might be surprised at how much faster and better they are."
+

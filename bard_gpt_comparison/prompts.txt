@@ -1,0 +1,8 @@
+Write 5 original dad jokes
+Write a 5-line debate between a fan of PowerPC processors and a fan of Intel processors, circa 2000.
+If Microsoft Windows 11 shipped on 3.5" floppy disks, how many floppy disks would it take?
+Summarize this in one paragraph: Amid this past week's controversies in AI over regulation, fears of world-ending doom, and job disruption, the clouds have briefly parted. For a brief and shining moment, we can enjoy an absolutely ridiculous AI-generated video of Will Smith eating spaghetti that is now lighting up our lives with its terrible glory.    On Monday, a Reddit user named "chaindrop" shared the AI-generated video on the r/StableDiffusion subreddit. It quickly spread to other forms of social media and inspired mixed ruminations in the press. For example, Vice said the video will "haunt you for the rest of your life," while the AV Club called it the "natural end point for AI development."      We're somewhere in between. The 20-second silent video consists of 10 independently generated two-second segments stitched together. Each one shows different angles of a simulated Will Smith (at one point, even two Will Smiths) ravenously gobbling up spaghetti. It's entirely computer-generated, thanks to AI.
+Who invented video games?
+Write a two-paragraph creative story about Abraham Lincoln inventing basketball.
+Write a Python script that says "Hello World," then creates a random repeating string of characters endlessly.
+
